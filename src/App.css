@@ -1,7 +1,26 @@
 .App {
   text-align: center;
+   display:flex;
+  position:relative;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center; 
 }
-
+.ra{
+  display:flex;
+  position:relative;
+  flex-direction:column;
+  align-items: center;
+  justify-content: center;
+}
+/* .PostMessage
+{
+  display:flex;
+  position:relative;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center; 
+} */
 .App-logo {
   height: 40vmin;
   pointer-events: none;
